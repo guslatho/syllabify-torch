@@ -1,7 +1,9 @@
 # About
 
 Repository of files referenced in research by Gus Lathouwers, Wieke Harmsen, Catia Cucchiarini, Helmers Strik; Radboud University (2024).
+
 Contains three datasets used for syllabification benchmarking as well as two algorithms (neural net and Brandt).
+
 Also see https://github.com/guslatho/syllabificator for an older version of the deep learning algorithm and additional syllabification algorithms.
 
 # Usage
