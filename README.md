@@ -4,7 +4,7 @@ Repository of files referenced in research by Gus Lathouwers, Wieke Harmsen, Cat
 
 Contains three datasets used for syllabification benchmarking as well as two algorithms (neural net and Brandt).
 
-Also see https://github.com/guslatho/syllabificator for an older version of the deep learning algorithm and additional syllabification algorithms.
+Also see https://github.com/guslatho/syllabificator for an older version of the deep learning algorithm containing additional syllabification algorithms.
 
 # Usage
 
