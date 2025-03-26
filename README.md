@@ -10,7 +10,7 @@ Also see https://github.com/guslatho/syllabificator for an older version of the 
 
 'torch_train.ipynb' Is a sample setup for training a new torch model to perform syllabification. The torch training is language agnostic, meaning any language file can be input (currently only tested on languages using the latin alphabet).
 
-'sample_script.ipynb' Contains reference code to use either the Brandt algorithm or an pretrained torch model for syllabification.
+'sample_script.ipynb' Contains reference code to use either the Brandt algorithm or a pretrained torch model for Dutch syllabification.
 
 # Misc
 
