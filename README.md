@@ -1,10 +1,12 @@
 # About
 
-Repository of files referenced in research by Gus Lathouwers, Wieke Harmsen, Catia Cucchiarini, Helmers Strik; Radboud University (2024).
+Torch and algorithm-based solution for high-quality Dutch syllabification.
 
-Contains the three datasets used for syllabification benchmarking as well as two algorithms (neural net and Brandt). 
+Repository of files referenced in research by Gus Lathouwers, Wieke Harmsen, Catia Cucchiarini, Helmers Strik; Radboud University (2024). 
 
-Also see https://github.com/guslatho/syllabificator for an older version of the research repository containing additional syllabification algorithms.
+Contains the three datasets used for syllabification benchmarking.
+
+Also see https://github.com/guslatho/syllabificator for an older version of the research repository containing additional syllabification algorithms, also for English.
 
 # Usage
 
